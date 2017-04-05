@@ -1,11 +1,11 @@
 import React from 'react';
 
-function AudioEntry() {
+function CreateDecks() {
   return (
     <div className="container">
-      <h1>Audio Entry</h1>
+      <h1>Create Decks</h1>
     </div>
   )
 }
 
-export default AudioEntry;
+export default CreateDecks;

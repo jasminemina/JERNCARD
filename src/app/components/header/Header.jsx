@@ -10,17 +10,26 @@ function Header() {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/text-entry">Text</Link>
+            <Link to="/all-decks">All Decks</Link>
           </li>          
           <li>
-            <Link to="/audio-entry">Audio</Link>
+            <Link to="/create-decks">Create Decks</Link>
           </li>
           <li>
-            <Link to="/video-entry">Video</Link>
+            <Link to="/deck-profile">Deck Profile</Link>
+          </li>           
+          <li>
+            <Link to="/deck-view">Deck View</Link>
           </li>          
           <li>
-            <Link to="/results">Results</Link>
+            <Link to="/profile">Profile</Link>
+          </li>          
+          <li>
+            <Link to="/summary">Summary</Link>
           </li>
+          <li>
+            <Link to="/login">Login</Link>
+          </li>          
         </ul>
       </nav>
     </header>

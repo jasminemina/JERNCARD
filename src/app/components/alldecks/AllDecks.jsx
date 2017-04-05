@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Results() {
+function AllDecks() {
   return (
     <div className="container">
-      <h1>Results</h1>
+      <h1>All Decks</h1>
     </div>
   )
 }
 
-export default Results;
+export default AllDecks;

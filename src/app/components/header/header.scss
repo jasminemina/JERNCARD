@@ -7,7 +7,9 @@ header {
   nav {
 
     ul {
-      text-align: center;
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
 
       li {
         display: inline;
